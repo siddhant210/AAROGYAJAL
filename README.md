@@ -143,7 +143,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ### **Home Page**
 
-![Home Page Screenshot](https://i.postimg.cc/8cPWDSvS/water-project-preview.png)
+<img width="1899" height="954" alt="image" src="https://github.com/user-attachments/assets/68d2ea5b-a9bc-445e-85c5-cfa60a0c775f" />
+
 
 ---
 
