@@ -1,4 +1,4 @@
-Here’s the **complete README** in one single block for easy copy-paste:
+
 
 ---
 
